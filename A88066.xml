@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Levellers (falsly so called) vindicated, or The case of the twelve troops (which by treachery in a treaty) was lately surprised, and defeated at Burford, truly stated, and offered to the judgment of all unbyassed, and wel-minded people, especially of the Army, their fellow souldiers, under the conduct of the Lord Fairfax. / By a faithful remnant, late of Col. Scroops, Commissary General Iretons, and Col. Harrisons regiments, that hath not yet bowed their knee unto Baal, whose names (in the behalf of themselves, and by the appointment of the rest of their friends) are hereunto subscribed.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88066</idno>
+            <idno type="STC">Wing L1800A</idno>
+            <idno type="STC">Thomason E571_11</idno>
+            <idno type="STC">ESTC R204575</idno>
+            <idno type="EEBO-CITATION">99864048</idno>
+            <idno type="PROQUEST">99864048</idno>
+            <idno type="VID">116267</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116267)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E571[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Levellers (falsly so called) vindicated, or The case of the twelve troops (which by treachery in a treaty) was lately surprised, and defeated at Burford, truly stated, and offered to the judgment of all unbyassed, and wel-minded people, especially of the Army, their fellow souldiers, under the conduct of the Lord Fairfax. / By a faithful remnant, late of Col. Scroops, Commissary General Iretons, and Col. Harrisons regiments, that hath not yet bowed their knee unto Baal, whose names (in the behalf of themselves, and by the appointment of the rest of their friends) are hereunto subscribed.</title>
+                  <author>Wood, John, 17th cent.</author>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>12; 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated and signed on ¹B4v: London this 20 of August 1649, by us John Wood [and 5 others].</note>
+                  <note>Includes a reissue of Wing L2079, "An agreement of the free people of England" by John Lilburne. Colophon reads: London, printed for Gyles Calvert at the black spread-Eagle at the vvest end of Pauls.</note>
+                  <note>Annotation on Thomason copy: "Aug. 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Levellers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Burford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:116267:1" rendition="simple:additions"/>
+            <head>THE LEVELLERS (Falſly ſo called) VINDICATED, OR THE CASE Of the twelve Troops (which by Trea<g ref="char:EOLhyphen"/>chery in a Treaty) was lately ſurpriſed, and de<g ref="char:EOLhyphen"/>feated at <hi>Burford,</hi> truly ſtated, and offered to the Judgment of all unbyaſſed, and wel-minded People, eſpecially of the Army, their fellow Souldiers, under the Conduct of the Lord <hi>Fairfax.</hi>
+            </head>
+            <head type="sub">By a faithful remnant, late of Col. <hi>Scroops,</hi> Com<g ref="char:EOLhyphen"/>miſſary General <hi>Iretons,</hi> and Col. <hi>Harriſons</hi> Regiments, that hath not yet bowed their knee unto <hi>Baal,</hi> whoſe names (in the behalf of themſelves, and by the appointment of the reſt of their Friends) are here unto ſubſcribed.</head>
+            <head type="sub">The Caſe, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is wel known, and yet freſh in the publike memory, with what monſtrous and hateful defamations, as <hi>Anti-Scripturiſts, L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thertines, Atheiſts, Mutiniers, Levellers, &amp;c.</hi> we have moſt falſly and malici<g ref="char:EOLhyphen"/>ouſly been deciphered out to the people and Army, on purpoſe to bury us under the rage and <hi>edium</hi> of our fellow-ſouldiers; and ut<g ref="char:EOLhyphen"/>terly to blaſt, and prejudice the common acceptance, againſt our late, lawful, and conſciencious <hi>
+                  <g ref="char:V">Ʋ</g>ndertaking:</hi> And ſeeing the equity of all tranſactions is moſt commonly meaſured by the event, and ſucceſs that befals them; few conſidering
+<pb n="2" facs="tcp:116267:2"/> how God many times ſuffereth unjuſt me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to proſper, and ſpred themſelves in the world, like the Green Bay Tree; and the juſt (for their correction and proof) to be ſubdued and trod under foot for a ſeaſon. We are thereby at ſo great a ſeeming di<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d<g ref="char:EOLhyphen"/>vantage amongſt men, That in every thing we are fore-ſpoken, our truths (how <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able and evident ſoever) are rendred as incredible, and regardleſs, ſtrength and po<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> being on their ſide to countenance their actions, our enemies over awing all j<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ments, and forcing by the might of their lawleſs Sword, a credit or ſubjection to their own moſt perfidious and deceitful ways; ſo that, as for the fruit or ſucceſs that we expect, we could ſtill have ſat in patience, and not have uttered a word, but the diſ<g ref="char:EOLhyphen"/>honeſt and treacherous dealings received, with the woful ruine of the Nation, there<g ref="char:EOLhyphen"/>with ſuſtained in ours (evidently appearing) do ſo boyl at our hearts, and ſo prevalent<g ref="char:EOLhyphen"/>ly preſs upon our conſciences, that we are not able longer to reſt in ſilence; but let the hazard to us be what it will, we ſhall ſo far preſume upon the publike view, as faithfully and impartially, to ſet down the true ſtate and maner of our whole proceed<g ref="char:EOLhyphen"/>ings in that our late <hi>undertaking,</hi> hitherto moſt falſly and deceitfully repreſented by the ruling <hi>Faction</hi> of the Army, and ſo leave the ſame to the iudgment and timely conſideration of all honeſt and conſciencious people, eſpecially of the Army, our fellow-ſouldiers, under the conduct of the Lord <hi>Fairfax,</hi> and amongſt them in a ſpecial maner, all thoſe that really in judgment and conſcience, took up Arms for the Rights and Liberties of their Native Country, as the whole Army in their Declaration of the 14 of <hi>June,</hi> 1647. declare they all did. Thus then underſtanding, that we the ſoul<g ref="char:EOLhyphen"/>diers of Col. <hi>Scroops</hi> Regiment, and others, were allotted for the ſervice of <hi>Ireland,</hi> without our conſent, or of any of our fellow-ſouldiers in Counſel for us, we fell into ſerious debate (as in reaſon and honeſty we could do no leſs, conſidering likewiſe our late ſolemn Engagement) whether we could lawfully, in ſafety to our ſelves, and our own Native Rights in <hi>England,</hi> ſubmit unto that forraign Service, or no? And finding by that our old ſolemn Engagement at <hi>New Market,</hi> and <hi>Trip<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o</hi> Heaths, <hi>June</hi> 5. 1647<g ref="char:punc">▪</g> with the manifold Declarations, Promiſes, and Proteſtations of the Army, in pur<g ref="char:EOLhyphen"/>ſuance thereof, were all utterly declined, and moſt perfidiouſly broken, and the whole fabrick of the Common-wealth faln into the groſſeſt and vileſt Tyranny that ever Engliſh men groaned under; all their Laws, Rights, Lives, Liberties, and Proper<g ref="char:EOLhyphen"/>ties, wholly ſubdued (under the vizard and form of that Engagement) to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>wills</hi> of ſome deceitful perſons, having devolved the whole <hi>Magiſtracy of England</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Martial Domination, ruling the people with a <hi>Rod of Iron,</hi> as moſt mens woful experience can clearly witneſs; which, with the conſideration of the particular, moſt inſufferable abuſes and diſ-ſatisfactions put upon us, moved us to an <hi>unanimous refuſal to go,</hi> till our Conſcience were diſcharged in the faithful fulfilment of our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Solemn Engagement</hi> to our <hi>Native Countrey;</hi> in which Engagement, we were expreſly and particularly obliged againſt the Service of <hi>Ireland,</hi> till full ſatisfaction and ſecurity were given to us as Soldiers and Commoners, by a Councel of our own free <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> according to the rule and tenor of that Engagement, Recorded in the Armies <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Declarations<g ref="char:punc">▪</g> 
+               <hi>pag.</hi> 23, 24, 25, 26, 27. Whereupon we drew up a Paper of ſome <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by way of Declaration, concerning our ſaid refuſal, to deliver to our Colo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which, we all chearfully ſubſcribed, with many of our Officers (eſpecially <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, who then ſeemingly was extream forward in aſſiſting us to effect our deſires) <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being delivered a day or two after, immediately our Officers cauſed a <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ar unto <hi>Salisbury,</hi> where they declared, That the General intended not to force <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but that we might either go or ſtay; and ſo teſtifying our intents to ſtay, we were all
+<pb n="3" facs="tcp:116267:2"/> drawn into the Town again, and the Colonel, with the reſt of the Officers, full of diſcontent, threatened us the Souldiers; and becauſe we were all, or moſt of one minde, he termed our Unity a Combination, or Mutiny; yet himſelf upon our requeſt to know, told us, That he could not aſſure us, that he would go. Which foremention<g ref="char:EOLhyphen"/>ed Paper, with a Letter, we ſent to Commiſſary General <hi>Iretons</hi> Regiment, who took it ſo well, That they were immediately upon their march towards our quarters, to joyn with us, for the making good of their and our Engagement, which we, they, and the reſt of the Army had engaged at <hi>New-Market</hi> and <hi>Triple</hi> Heaths.</p>
+            <p>After this, all politike means that could be thought upon, were put in practice to work us off from our Reſolutions, as ſevering the Troops, and dealing with them a<g ref="char:EOLhyphen"/>part, not ſuffering the Souldiers of one Troop to come to any of the other, employ<g ref="char:EOLhyphen"/>ing Agents and Preaching Officers from Troop to Troop, to work us to that Service; and craftily, and lyingly, telling each Troop, That the other Troops were liſted for the Iriſh Service, ſin rupticiouſly to over reach, and gain us by that deceit. A crime they moſt maliciouſly fix upon others, whom they would make the world believe drew us to that <hi>undertaking,</hi> as in their Declaration of their proceedings againſt us, publiſhed laſt <hi>May</hi> 22. is to be ſeen, where <hi>page</hi> 6. ſpeaking ſcandalouſly of ſome perſons, naming none, yet ſtrongly implying our four worthy Friends in the Tower, they ſay of them, <hi>That they ſent their Emiſſaries and Agents into all parts, pretending from one Regiment to another, that each Regiment had declared, That ſo by that Artifice, they might draw each to declare. To the Forces in Wales, and the Weſt, they gave aſſurances, that the forces about</hi> London <hi>would revolt; to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe about</hi> London, <hi>that thoſe in</hi> Wales, <hi>and the Weſt, would do the ſame.</hi> Thus to ſhroud their own vildneſs, and to effect their own evil ends, they are not ſparing to blaſt innocent perſons with their own wicked de<g ref="char:EOLhyphen"/>vices themſelves are ſo apparently and foully guilty of; and yet wipe their mouths, as if no ſpeck or ſtain were upon them, and raiſe the report upon others.</p>
+            <p>All thoſe devices working nothing upon us (there being no ſatisfaction given to our juſt exceptions) our Colonel fell to violent threats, and commanded us to put our Horſes in a Field two miles from our Quarters; which though at firſt we did, yet finding the bitterneſs of his ſpirit to encreaſe, and that upon his information, That the General, and Lieutenant General were preparing a force againſt us: what could we do leſs, then put our ſelves into the beſt poſture we could to preſerve our ſelves, which we immediately did (and in this no man was more forward, and violently earn<g ref="char:EOLhyphen"/>eſt, then that perfidious Apoſtate, Cornet <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n.</hi>) And for our juſtification therein, we need go no further then their own words, in the Armies Declaration of the 14 of <hi>June,</hi> 1647. where to juſtifie their own oppoſition and rebellion to the Orders of a <hi>full, free, unforced, unraviſhed, and un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er purged Parliament,</hi> they tell us, <hi>That the Parliament hath declared it no reſiſting of Magiſtracy, to ſide with the juſt principles, and Law of Nature and Nations, being that Law upon which the Army aſsiſted; and that the Souldiers may lawfully hold the hands of the General that will turn his Cannon againſt his Army, on purpoſe to deſtroy them.</hi>
+            </p>
+            <p>This being done, we had further Intelligence <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he greatneſs and ſpeedineſs of the Generals preparations againſt us, and that, Though what we had done, did not amount to ſo much, as the Army had formerly done at <hi>Saffron Walden,</hi> upon the Parliaments commanding them for <hi>Ireland,</hi> yet were we ſtrangely repreſented to our fellow Souldiers, by the Lieutenant General in <hi>Hide</hi> Park, under the notion of Mutiniers, Levellers, and denyers of the Scriptures, of purpoſe to make them engage
+<pb n="4" facs="tcp:116267:3"/> againſt us<note n="*" place="margin">Though none act more directly againſt the tenor thereof then themſelves, as is too manifeſt by their frequent breaking of all Faith, and Premiſes, making no<g ref="char:EOLhyphen"/>thing of Treachery, diſſembling, yea, and lying too (which is not once to be menti<g ref="char:EOLhyphen"/>oned amongſt Saints, as they would have men think of them.) O abominable Hypocrites! know ye not, that diſſemb<g ref="char:EOLhyphen"/>ling Piety is double Iniquity; but we fear, while ye pretend to Scripture, ye believe neither it, nor the Reſurrection: For if ye did, ye would not condemn the Innocent, againſt Knowledg and Conſci<g ref="char:EOLhyphen"/>ence, of thoſe things your ſelves are guilty. Repent betimes, or elſe your por<g ref="char:EOLunhyphen"/>tion will be with Hypocrites.</note>; ſo that now we ſaw, there was <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of ſafety left us, but by ſtanding upon our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and capitulating with our Sword in our hands, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing encouraged thereto, as well by our own <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nno<g ref="char:EOLhyphen"/>cency, and the equity of thoſe things, upon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we had grounded our Reſolutions: As alſo for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we could not think our fellow Souldiers of the Army, who with us engaged at <hi>New-Market</hi> He<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> would fight againſt us, for upholding the ſaid <hi>ſolemn Engagement,</hi> wherein they were equally concerned and obliged with us, both as Souldiers and Com<g ref="char:EOLhyphen"/>moners to each other, to us, and the whole Nat<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, with whom it was made. But indeed, this Trea<g ref="char:EOLhyphen"/>cherous Tragedy was principally managed and act<g ref="char:EOLhyphen"/>ed by (that Turn Coat) <hi>Reynolds,</hi> and his Regi<g ref="char:EOLhyphen"/>ment; who for the moſt of them were Strangers to that Engagement. <hi>A company of Blood-thirſty Rogues, Murderers, Theeves, High-way-men, and ſome that were taken in</hi> Colcheſter, <hi>and ſuch as were caſhiered out of other Regiment, for high miſdemeanors,</hi> being entertained therein. And theſe were the men principal<g ref="char:EOLhyphen"/>ly deſigned, and to be truſted againſt us, as moſt fitteſt to fight for the truth of the Scriptures, and ſuch Saints as the Lieutenant General<note n="(*)" place="margin">Theſe are of the men that uſually aſperee the Peoples beſt Friends with ſuch Language, as Atheiſts, Levellers, Anti-Scripturiſts, and who lives more like ſuch, then they? for it is they who ruine all, and deſtroy Propriety, by their Arbitrary and Lawleſs Power; and who more like Jeſuites they themſelves for crafty Policy, Lying, and Treachery? and certainly theſe be the effects, or fruits of Atheiſm: <hi>For by their works you ſhall know them.</hi>
+               </note>
+            </p>
+            <p>But to return. Hereupon our Officers leaving us, we chooſe new ones, and diſ<g ref="char:EOLhyphen"/>poſed of our Colours, and immediately drew up a Declaration, wherein we ſignified the Reſolutions of the General (upon our refuſal to go for <hi>Ireland) in a ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght and un<g ref="char:EOLhyphen"/>worthy maner to disband us, after our ſo many yeers hard and faithful Services; which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> then knew to have been practiſed upon many of our fellow Souldiers in Colonel</hi> Hu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon, <hi>and</hi> Cooks <hi>Regiments; and thereupon, we reſolved to ſtand to our former Engagement made at</hi> New-Market; <hi>which the proceedings of the General and our Officers, did ex<g ref="char:EOLhyphen"/>preſly contradict and make voyd.</hi> This Declaration was publikely read as our Rendea<g ref="char:EOLhyphen"/>vous in old <hi>Sarum,</hi> where four Troops of Commiſſarie General <hi>Iretons</hi> met us, and unanimouſly aſſented to by both Regiments; whereupon our conjunction we ad<g ref="char:EOLhyphen"/>vanced to <hi>Marlborough,</hi> and ſo to <hi>Vantage,</hi> where Commiſſioners from the General met us, to wit, Major <hi>White,</hi> Captain <hi>Scotten,</hi> Captain <hi>Pev<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>al,</hi> and Captain Lieu<g ref="char:EOLhyphen"/>tenant <hi>Baily,</hi> with whom that day we did nothing, but agreed to meet at <hi>Sta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ford</hi> Green, the next morning by eight of the Clock, where we were all according to ap<g ref="char:EOLhyphen"/>pointment, but the Comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſioners not coming, we marched out of the field, on our way towards <hi>Abbington;</hi> and as we were upon our march the Commiſſioners came poſting after us, and we preſently made a Hault; then they overtaking us, and told us, They had Order from the General, and Lieutenant General, to hear our Deſires, and endevor the Compoſure of our Differences; then they rea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Letter unto us from the General, which took but little effect upon our Spirits; and ſo marching a little is
+<pb n="5" facs="tcp:116267:3"/> further, two of Col. <hi>Harriſon Troops,</hi> to wit, Cap. <hi>Picks</hi> and Captain <hi>Winthrops</hi> were marching to their Quarters, where Cornet <hi>Den</hi> and divers others met them, And read a Declaration to them, and uſed many glorious invitations of them to de<g ref="char:EOLhyphen"/>ſire them to come and joyn with us, making appeare the lawfulneſſe of our cauſe, telling them that we were reſolved to ſtand to our firſt principles, and that if there were but ten men would ſtand for thoſe juſt things, he would make the eleventh, with divers ſuch like expreſſions, the two Troops being very willing to be ſatiſ<g ref="char:EOLhyphen"/>fied in the lawfulneſſe of the engagement, telling us they were marching to <hi>Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and the next morning we ſhould know their reſolutions: But as we were marching back againe, before we were half out of the field, we ſpied a partie of horſe, which it ſeemed was the Apoſtate <hi>Reynolds</hi> with his mercenary damme crew (ſuch as in our hearing moſt deſperately ſwore, <hi>That if the Devil would come from hell and give them a great a day more then the State, they would fight for him againſt the Levellers or any others</hi>) well, upon this we drew out a Forlorne hope, and thereupon two Troops of Colonel <hi>Harriſons</hi> marched with us towards them; they retreated towards <hi>New-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ridge</hi> and kept it by force againſt us, but we unwilling to ſhed blood, or to be the original occa<g ref="char:EOLhyphen"/>ſion of a new war (though they have often branded us with it as if we wholy ſought it) but our actions did then cleerly manifeſt the contrary; for we ſeeing Souldiers, coming in a Hoſtile manner againſt us as aforeſaid, did meet them, having for<g ref="char:EOLhyphen"/>ty or fifty of them at our mercy, and could have deſtroyed them, for we had them two miles from the foreſaid bridg, but we did not then in the leaſt offer them any violence or deminiſh a hair of their heads, but let them go to their body againe, and withall marched to a Ford, becauſe we would not in the leaſt be on occaſion of any blood-ſhed; And having marched through the Ford into the Marſh on the other ſide, we called our Councel together, who referred the appointment of our quarters to Lieut. <hi>Ray,</hi> and Cornet <hi>Den,</hi> who deſigned us for <hi>Burford,</hi> where being in the Treatie with the Commiſſioners, and having intelligence, that the General and Lt. Generall were upon their march towards us, many of us ſeverall times, urged to Major <hi>White,</hi> and preſt upon him, that he came to betray us, to which he replyed. That the Generall and Lieutenant Generall had engaged their Honours not to engage againſt us in any Hoſtile manner till they had received our Anſwer, no not ſo much as to follow their Meſſengers or Commiſſioners with force, and be<g ref="char:EOLhyphen"/>ing too credulous to the Generals words, knowing that he never broak ingagement with the Cavaleers in that kind; We gave the more credit to the Major, who ſee<g ref="char:EOLhyphen"/>med extream forward and haſtie to make the Compoſure, pretending ſo far to approve of our ſtanding for the things contained in our engagement at <hi>Triplo-Heath,</hi> that himſelf with our conſents drew up a Paper in Anſwer to the Gene<g ref="char:EOLhyphen"/>rall for us, ſo fully according to our deſires as that it gave us ſatisfaction, ſo that the Agreement betwixt the Generals Commiſſioners and us, ſeemed to be even concluded and at an end, And for full ſatisfaction take Copie of the ſaid Letter which is as followeth:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Nay it pleaſe your Excellency.</salute>
+                  </opener>
+                  <p>WEe are your Excellencies Souldiers, who have engaged our lives under your Excellencies conduct, through all difficulties and hazards in order to the procurement of Freedom Safety and Peace to this Nation, and our ſelves
+<pb n="6" facs="tcp:116267:4"/> as Members thereof, and being lately deſigned by lot to be divided, and ſent over into <hi>Ireland</hi> for the proſecution of that ſervice, in order to the Peace and ſafety of this Common-wealth, which we think neceſſary to be per<g ref="char:EOLhyphen"/>formed, but looking back to take a view of our former proceeding, we finde that we cannot in conſcience to our ſelves, in duty to God, this Nation, and the reſt of our fellow ſouldiers undertake that ſervice, but by ſuch a deciſi<g ref="char:EOLhyphen"/>on as is Agreeable to our ſolemn Engagement made at <hi>New-market Heath,</hi> the 5 of June 1647. where we did in the preſence of God, with one conſent ſolemnly engage one to another, not to disband nor divide, nor ſuffer our ſelves to be disbanded nor divided, Untill ſatisfaction and ſecurity was received by the judg<g ref="char:EOLhyphen"/>ment of a counſell conſiſting of two Officers and two Souldiers together with the Generall Officers that did concur, ſuch ſatisfaction and ſecurity as that engage<g ref="char:EOLhyphen"/>ment refers unto; And being now departed from our obedience to you becauſe you keep not Covenant with us: yet we ſhall not in the leaſt barber any evill thought or prejudice againſt you, nor uſe any act of hoſtility, unleſſe neceſſitated thereunto in our own defence, which we deſire God to prevent; All that we deſire (and we ſpeak it in the preſence of God, who knowes our hearts) is, that your Excel<g ref="char:EOLhyphen"/>lency will call a Generall Councell according to the ſolemn Engagement. In the Judgment whereof we will acquieſſe, and refer our ſelves to them to take an account of our late actions. This being aſſured we will every man with cheerfulneſſe re<g ref="char:EOLhyphen"/>turne to our obedience, and ſubmit to your Excellency and the Judgment of that Councell in all mattters that concern us as Souldiers, or Members of this Com<g ref="char:EOLhyphen"/>mon-wealth; this we beg of your Excellency to grant, out of the reſpect of your duty to God, this Nation, and the Army, that we may therby retain our peace with him and procure the happineſſe of this Nation under him, which is the de<g ref="char:EOLhyphen"/>ſire of our ſoules: If you ſhall deny us this, we muſt lay at your door all the <hi>Miſery, Bloodſhed and Ruine</hi> that will fall upon this Nation and Army; for we are reſolved as one man by Gods aſſiſtance to ſtand in this Juſt deſire, and although our bodies periſh, yet we ſhall keep our conſciences cleer, and we are confident our ſoules will be at peace; now till we have a full determination herein, we deſire your Excellency will forbear all manner of hoſtility, or marching towards us for avoyding any inconveniencies that may come to our ſelves or the Country; theſe deſires with affection being granted, we hope the falling out of friends will be the renewing of love, And we ſhall ſubſcribe and manifeſt our ſelves your Excellencies faithfull Souldiers, and ſervants to this Common-wealth.</p>
+               </body>
+            </floatingText>
+            <p>But to returne, during the time of treaty, while the Commiſſioners thus aſ<g ref="char:EOLhyphen"/>ſured us <hi>all ſecurity,</hi> one of them, to wit, Captain <hi>Scotten</hi> privately ſlipt from us, and two others, to wit, Captain <hi>Bayley</hi> and <hi>Peverill</hi> left notes at every Town of our ſtrength and condition, whilſt Major <hi>White</hi> held us in hand, and told us, that if they fell upon us, he would ſtand between the bullets and us: So that when notice had been ſufficiently given, and we with all the meanes that could be uſed, wrought into a ſecure condition at <hi>Burford,</hi> &amp; after the ſetting of our Guard, which was comman<g ref="char:EOLhyphen"/>ded by Quarter-Maſter <hi>More</hi> who was thereupon appointed, by his Brother Traytor, Cornet <hi>Den</hi> (who himſelf) ſince his coming to <hi>London</hi> hath avowedly declared to M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. W.W. to this effect that his beginning, and continuing with the <hi>Burford</hi> Tro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> was out of premeditated and complotted deſigne, that ſo at laſt he might the eaſi<g ref="char:EOLhyphen"/>er bring on their deſtruction, holding all the time he was with them, correſpon<g ref="char:EOLhyphen"/>dency
+<pb n="7" facs="tcp:116267:4"/> with the Generalls creatures, which ſaid Quarter-Maſter <hi>More</hi> after he had ſet the guard in this ſlight manner, and poſſeſt us with as much ſecurity as he could, and under the pretence of going to refreſh himſelf and horſe, did moſt villanouſly and treacherouſly leave the guard without any Orders, and himſelf in perſon poſt<g ref="char:EOLhyphen"/>ed away to the Generals forces and brought them in upon us, marching in the head of them with his ſword drawn againſt us; And Quarter-maſter <hi>More</hi> being af<g ref="char:EOLhyphen"/>terward called Traitor by ſome of the Souldiers, Cap. <hi>Gotherd</hi> of <hi>Scroops</hi> Regiment made anſwer, he was none, for that he did nothing but what he was ſent to do; ſo that moſt Treacherouſly, that ſame night the Generals forces came pouring on both ſides of the Towne of <hi>Burford,</hi> where we had not been above three houres, ſwearing, Damme them and ſink them, and violently fell upon us, and ſo by a frau<g ref="char:EOLhyphen"/>dulent and Treacherous ſurprize defeated us, not expecting it during the Trea<g ref="char:EOLhyphen"/>tie, eſpecially from them with whom we had joyned theſe ſeven years for the de<g ref="char:EOLhyphen"/>fence of Englands Liberties and Freedoms, and though divers of us had faire quarter promiſed us by Colonel <hi>Okey,</hi> Major <hi>Barton</hi> and the reſt of the Officers then with them, as that not a hair of our heads ſhould periſh, yet did they ſuffer their ſouldiers to plunder us, ſtrip us, and barbarouſly to uſe us, worſe then Cavaliers, yea Cromwell ſtood by to ſee Cornet Tomſon, Maſter Church and Maſter Perkins murthered, and we were all condemned to death, although Colonel Okey, Ma<g ref="char:EOLhyphen"/>jor Barton and others of the Grandees had ingaged that not a hair of our heads ſhould periſh, when they ſurrendred themſelves unto them, Tompſon being then at the head of a party of two Troops of horſe, and the other with their fellow Souldiers made good their Quarters while they had the conditions promiſed them, and then Cromwel after this horrid murther was committed upon the three forementioned, contrary to <hi>Okeys, Bartons</hi> and others of their promiſes at their ta<g ref="char:EOLhyphen"/>king them, came to us in the Church, and making his old manner of diſſembling ſpeeches, told us it was not they that had ſaved our lives, but providence had ſo or<g ref="char:EOLhyphen"/>dered it, and told us that he could not deny but that many of the things that we de<g ref="char:EOLhyphen"/>ſired were good, and they intendended to have many of them done, but we went in a mutinous way, and diſobeyed the Generals Orders; but withall he told us that we ſhould not be put off with diſhonourable terms, becauſe we ſhould not become a re<g ref="char:EOLhyphen"/>proach to the common Enemie: but we deſire all unbyaſſed men to judge, whether ten ſhillings a man, and a peece of paper for ſeven yeers Service, be honourable terms: the paper being good for nothing but to ſell to Parliament mens Agents, who have ſet them a work to buy them for three ſhillings, or four ſhillings in the pound at moſt; and we are forced to ſell them to ſupply our wants, to keep us from ſtarving, or forcing us to go to the high way, by reaſon they will not pay us one penny of our Arrears any other way but by papers, that ſo they may rob us and the reſt of the Souldiers of the Armie of their ſeven yeers Service, to make them<g ref="char:EOLhyphen"/>ſelves and their adherents the ſole poſſeſſors of the late Kings Lands for little or nothing: and for ought we know, the moneys they buy our Debenters withall, is the money the Nation cannot have any account of. But this their dealing is not onely ſo to us, whom they pretend diſobeyed their commands; but they dealt ſo baſely by other Souldiers who never reſiſted their unjuſt Commands, as we beleeve no age can parallel: For in the firſt place, they turned them off with two months pay. Secondly, They have taken away three parts of their Arrears for Free-quarter, though the Country (whoſe victuals, graſſe and corn they eat) be never the better;
+<pb n="8" facs="tcp:116267:5"/> and do alſo force them to ſell their papers at the rate aforeſaid. And de<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fellow-Souldiers, think not, becauſe you are in Arms a little longer then we, that you ſhall ſpeed better then we, which they have disbanded before you; but be aſſured, that when they have their own ends ſerved on you, as they have already on <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, you ſhall have as bad conditions of them, and may be, worſe, if it be poſſible, then we have had before you; and may alſo reward you for your good ſervices, by raiſing a company of mercenary Rogues to cut your throats, as they did trayterouſly to cut ours at <hi>Burford.</hi>
+            </p>
+            <p>But to return, from this ſad and long digreſſion: by this their ſerpentine craft, and our own over credulous innocency, we were overthrown, and our hopefull begin<g ref="char:EOLhyphen"/>nings for the reſcue and deliverie of our ſelves and the nation from thraldome, blaſted and deſtroyed; and then utterly to break and daſh in pieces our ſpirits, and in us all Aſſertors of the Freedoms of <hi>England,</hi> and to put an utter inconfidence and jealouſie for ever amongſt ſuch upon all future engagements, they made that wretched <hi>Judas Den,</hi> to that end their pandor and ſlave: they pretendedly ſpare his life after his condemnation to death, although now upon good grounds and intel<g ref="char:EOLhyphen"/>ligence, (yea partly from his own confeſſions as is noted before) we doe beleeve that from the beginnings of our proceedings, he was their appointed Emiſſary (aſwell as the forementioned Quartermaſter) to be moſt zealous and forward of any man for us, the better to compaſſe our ruine and lead us like poor ſheep to the ſlaughter; they enjoyne <hi>Den,</hi> to preach Apoſtacy to us in the Pulpit of <hi>Burford</hi> Church, to aſ<g ref="char:EOLhyphen"/>ſert and plead the unlawfulneſſe of our engagement, as much as before the lawful<g ref="char:EOLhyphen"/>neſſe to vindicate, and juſtifie all thoſe wicked and abhominable proceedings of the Generall, Lievetenant Generall and their officers againſt us, howling and weeping like a Crocadile, and to make him a perfect <hi>Rogue and villain upon everlaſting Record,</hi> to which like the moſt abhorred of mank<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to bring about their pernicious ends upon the people, he willingly ſubmitted, and to this end publiſhed a Recanta<g ref="char:EOLhyphen"/>tion paper fraught with lies, infamies and moſt Trayterous aſſertions of an arbitra<g ref="char:EOLhyphen"/>ry power evidently tending to the introduction thereof upon this Nation in the perſons of the cheife Leaders of the Armie, and in that paper at the advantage of this wicked and treacherous overthrow of ours endeavoured to bury our ſollemn Engagement at New market heath in our ruines, as if long ſince cancell'd and of no longer force or obligation, pretending that by petition we had call'd home our councell of Agitators and ſo diſſolv'd our engagement at New-market heath, And ſo the Army abſolved from all further obſervation thereof.</p>
+            <p>Now to this, is to be conſidered, that the ſaid engagement was radicall upon the grounds of common freedom, ſafetie, and ſecuritie to the Nation, and upon that account and to that end onely undertaken and ſolemnly made, and all righte<g ref="char:EOLhyphen"/>ous othes, vows, and covenants are indiſſolveble and of force till their full and per<g ref="char:EOLhyphen"/>fect accompliſhment; the Apoſtacy and defection of no man, though of him or thoſe that vowes, or makes ſuch oaths or engagements can abſolve or untie them; and this no man that hath any ſpark of Conſcience or Chriſtianitie in him can deny. Therefore it was moſt deceitfully and corruptly urged, <hi>that the ſame power that gave it a being diſſolved it;</hi> for till the vowes of that engagement be paid unto the people, it ſtandeth firm and obligatorie, till then the gates of hell a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e not able to prevail againſt the being and obliging power thereof; and we are ſure none can ſay, the genuine ends and intents of that engagement are yet obtained, but a thouſand
+<pb n="9" facs="tcp:116267:5"/> times further off, then at the making of that vow: beſides, as that engagement en<g ref="char:EOLhyphen"/>joynes, what ſecuritie or ſatisfaction to their private or publick rights, both as Souldiers and commoners, have we or the reſt of our fellow ſouldiers yet received from a councell conſiſting <hi>of two Souldiers choſen out of every Regiment, two Commiſſion officers with ſuch Generall officers onely as aſſented to that undertaking, when or where was it?</hi> Indeed had ſuch a Councell ſo concluded, and we the ſouldiers by our unanimous teſtimony and ſubſcription (as we did to our <hi>engagement</hi>) teſtifie our <hi>ſatisfaction,</hi> there might have been ſome plauſible pretence for its diſſolution; but to this day it is evident to the whole world that no ſuch thing hath been, and this was the ex<g ref="char:EOLhyphen"/>preſſe letter and intent of that New-market engagement; and to urge a petition for recalling the Agitators is a blinde excuſe; for put the caſe there had been ſuch an one, and that of generall concurrence yet could it not detract or any way dimi<g ref="char:EOLhyphen"/>niſh from that righteous engagement; though the defection and ſubſcription were both of Generall, Officers and Souldiers, yet the foundation of that Vow ſtandeth ſure to us all, it is <hi>immovable</hi> till its own <hi>proper end,</hi> viz. the accompliſhment of the right<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous end therein contained, affix its <hi>period:</hi> which we earneſtly deſire, may be conſcienciouſly and ſeriouſly laid to heart by all our fellow-ſouldiers in ſolemn covenant with us; for there is a God that over-ſeeth, and one day (when there will be no Articles of War to prevent) will call us to a ſtrict reckoning for the breach of our faith and vows one to another, and the Nation, and account with us for all the blood, ruine, miſery and oppreſſion that thereby hath enſued, and ſtill dependeth upon that moſt monſtrous Apoſtacie. That pretended Petition at that day will be found to be but a broken reed to lean upon, it will nothing abate of the guilt: and how-ever it is now highly urged to wipe off all worldly diſhonour from the iron Rulers of our age, we are not ſuch ſtrangers to the Army, if any ſuch Army-Pe<g ref="char:EOLhyphen"/>tition were, as not to know it: Sure wee are, no ſuch Petition can be produ<g ref="char:EOLhyphen"/>ced from any ſingle Troop, Company, or Regiment, much leſſe from the Ar<g ref="char:EOLhyphen"/>mie. And though ſome ſuch endeavours were for the promotion of ſo wicked and vile an enterpriſe, and now as evilly made uſe of; yet it never fell under the cogni<g ref="char:EOLhyphen"/>zance of the Army, neither yet of any ſingle entire Regiment, Troop or Com<g ref="char:EOLhyphen"/>pany; and the Engagement by the Army was made <hi>as an Army,</hi> by unanimous conſent, and therefore no otherwiſe diſſolvable, but unanimouſly <hi>as an Army</hi> and that neither otherwiſe then righteouſly, after the tenour and true intent of that Engagement, as we have clearly evinced, and therein have diſcharged our Conſci<g ref="char:EOLhyphen"/>ences: See further upon this Subject a late Book of <hi>Aug.</hi> 1649. Lieut. Col. <hi>Iohn Lil<g ref="char:EOLhyphen"/>burne,</hi> Intituled, <hi>An Impeachment of High Treaſon againſt</hi> Oliver Cromwell, <hi>and</hi> Henry Ireton <hi>Eſquires</hi> page 4, 5. See alſo the 40, 41, 42, 43, 81, pages of the ſecond Edition of his Book of the eight of <hi>June</hi> 1646. Intituled, <hi>The Legall Fun<g ref="char:EOLhyphen"/>damentall Liberties of the People of England, aſſerted, revived, and vindicated.</hi>
+            </p>
+            <p>Thus we have truly ſtated the caſe of our late proceedings and differences be<g ref="char:EOLhyphen"/>twixt our Officers and us, and hope ſufficiently to beget a right underſtanding and approvement, eſpecially with all honeſt and conſcientious people, of the e<g ref="char:EOLhyphen"/>quity of our late undertakings: however to thoſe that are and ſhall come after, we haue publiſhed and left upon record a perfect view and Proſpect of our condi<g ref="char:EOLhyphen"/>tion, that if the preſent Peruſers ſhall not, yet happily that thoſe that are to come may be thereby provoked to conſideration thereof, and equall reſentment with us of the righteous ends of that now betrayed, deſerted, Engagement of the Army, which we chi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y deſire and expect at the hands of our Fellow Souldiers, that they
+<pb n="10" facs="tcp:116267:6"/> may not longer like their Leaders be numbred amongſt ſuch as will not be limi<g ref="char:EOLhyphen"/>ted or circumſcribed within any Bounds, Engagements, Oaths, Promiſes, or Pro<g ref="char:EOLhyphen"/>teſtations, but levell, break, fruſtrate and throw off all, <hi>(as if no tyes betwixt man and man were to be on mankind)</hi> to bring about the corrupt ends of their ambition and avarice, as not only in this caſe of ours, but in all others of their publike undertakings ſince the beginning of the Armies Engagement is clearly manifeſt, and yet all their ſucceſſes, and advancements over the People, gaind by their per<g ref="char:EOLhyphen"/>jury, fraud, equivocations, treacheries and deceipts they aſcribe to the immediate approving hand of God, and zeal over their deluſions with the glorious exerciſe of Religious formalities to the eye of the People, by which a thick miſt, as thick as the Egyptian darkneſs is lately come over the eyes of the greateſt pretenders to true puri<g ref="char:EOLhyphen"/>ritie and Religion, and many conſcientious people therewith bewitched into the fa<g ref="char:EOLhyphen"/>vour and approvement of their alone Jeſuitical, wicked, deſperate and bloody wayes, even to the oppoſition and perſecution of the moſt faithfull and conſtant promoters of, and ſufferers for, the juſt freedoms of the Nation.</p>
+            <p>But in caſe our fellow Souldiers will not remember their vows, but ſtill ſlight &amp; deſert the ſame their ſin be upon their own heads, we have diſcharged our ſelves: yet conſidering they may again poſſibly incline to their countries redemption (as labouring more under ignorance then willfulnes) we ſhall offer them and all o<g ref="char:EOLhyphen"/>thers that bear good will to the Nation, what in reaſon and Equity is moſt con<g ref="char:EOLhyphen"/>ducing to a ſafe and well grounded peace amongſt us, and which by its greateſt Adverſaries cannot be denyed but to be righteous and juſt, though contadictory to the lawleſs Lordſhip and ambitions of their Officers.</p>
+            <p>And firſt, We deſire it may be conſidered, that our Hoſtile engagements againſt the late King, was not againſt him as out of any perſonall enmity, but ſimply and ſingly againſt his Oppreſſions and Tyranny on the People, and for their remo<g ref="char:EOLhyphen"/>vall, but the uſe and advantage on all the ſucceſſe God hath been pleaſed to give us is perverted to that perſonall end, that by his removall the Ruling ſword-men might intrude into his Throne, ſet up a Martiall Monarchie more cruell, Arbitrarie and Tyrannicall then <hi>England</hi> ever yet taſted of, and that under the Notion of a <hi>Free State,</hi> when as the People had no ſhare at all in the conſtitu<g ref="char:EOLhyphen"/>tion thereof, but by the perjurie and falſeneſs of the Lieutenant Generall and his Son in Law <hi>Ireton</hi> with their Faction was enforced and obtruded by meer con<g ref="char:EOLhyphen"/>queſt upon the People, a Title which Mr <hi>John Cook</hi> in his Book Intituled, King <hi>Charles</hi> his Caſe, <hi>&amp;c.</hi> there confeſſeth <hi>to be more fit for Wolves and Bears then a<g ref="char:EOLhyphen"/>mongſt men,</hi> and that ſuch Tyrants that doe ſo govern with a rod of Iron, doe not go<g ref="char:EOLhyphen"/>vern by Gods permiſſive hand of approbation, and in ſuch Caſes its lawfull for a People to riſe up and force their deliverance, See <hi>page</hi> 8, 10.</p>
+            <p>Now, rather then thus to be vaſſallaged, and thus trampled and trod under foot by ſuch that over our backs, and by the many lives, and loſſe of our blood from us and our fellow-ſouldiers, have thus ſtept into the chair of this hatefull Kingſhip and preſumption over us, in deſpight and defiance of the conſent, choice, and al<g ref="char:EOLhyphen"/>lowance of the free-people of this Land (the true fountain and original of all juſt power, (as their own Votes againſt Kingly Government confeſſe) we will chuſe ſubjection to the Prince, chuſing rather ten thouſand times to be his ſlaves then theirs, yet hating ſlavery under both: and to that end, to avoid it in both, we de<g ref="char:EOLhyphen"/>ſire it may be timely and ſeriouſly weighed,</p>
+            <p>That whereas a moſt judicious and faithfull Expedient to this purpoſe, hath, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:116267:6"/> A Peace-offering been tendered to the acceptance of the free people of England, intituled, <hi>An Agreement of the People,</hi> dated May 1 1649, from our four faithfull Friends, now cloſe priſoners in the Tower of London, we cannot but judge, that that way of Settlement, to wit, by an <hi>Agreement of the People,</hi> is the onely and alone way of attonement, reconciliation, peace, freedom, and ſecurity (under God) to the Nation; it being impoſſible by way of Conqueſt to allay the feud, diviſions, parties and Quarrels amongſt us, which if not ſtopt, will certainly devour us up in Civil and domeſtick Broils, though we ſhould have none from abroad; for the Sword convinceth not, it doth but enforce; it begetteth no love, but fomenteth and engendreth hatred and revenge; for bloud thirſteth after bloud, and vengeance rageth for vengeance, and this devoureth and deſtroyeth all where it cometh. And though our preſent Rulers have ſetled themſelves and their conqueſt-Government over us; yet are we farther from peace and reconciliation then ever: the diſcontents and diſ<g ref="char:EOLhyphen"/>ſatisfact<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons amongſt the people in the Kings time, which at length burſt into de<g ref="char:EOLhyphen"/>ſperate Warr) was not the hundreth part ſo great as the diſcontents that are now; and if ſo much did follow the leſſer, can better be expected from the greater? never were there ſuch repinings, heart-burnings, grudgings, envyings and curſings in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> as now, againſt the preſent Governours and Government; never ſuch fraction and diviſion into parties, b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nding, biting, countermining and plotting one againſt another for preheminency and majority then now; and of all this nothing is the cauſe, but this way of force and martiall obtruſion: And can it be imagined ſuch counterplottings, repinings and diviſions can be with ſafety and peace? it is impoſ<g ref="char:EOLhyphen"/>ſible: Inſurrections, tumults, revoltings, war and commotions are the proper iſſues of the wayes of ſuch violence, and no better is to be expected: none but intruders, uſurpers and tyrants can be for the way of forc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; ſuch as would be but ſervants to the people, and not make the people their ſervants, cannot but abhor it, and lay down their glory at the feet of the people: theſe (that now ramp and rage over us) were they other then Tyrants, could do no leſſe: they draw near it indeed in words, but are as far as hell from it in actions; they <hi>vote and declare the People the ſupreme Power, and the originall of all juſt Authority;</hi> pretend the promotion of an <hi>Agreement of the peo<g ref="char:EOLhyphen"/>ple,</hi> ſtile this the <hi>Firſt yeer of Englands Freedom,</hi> intitle their Government a <hi>Free State,</hi> and yet none more violent, bloudy and perverſe enemies thereto; for not under pains of death, and confiſcation of lands and goods, may any man challenge and pro<g ref="char:EOLhyphen"/>mote thoſe rights of the nation, ſo lately pretended to by themſelves: if we ask them a Fiſh, they give us a Scorpion, if bread, they give us a ſtone. Nothing but their <hi>boundleſſe, lawleſſe wils,</hi> their naked ſwords, Armies, arms and ammunition is now law in England; never were a people ſo cheated, ſo abuſed and trod under foot; e<g ref="char:EOLhyphen"/>nough to inrage them (as once the children of Iſrael againſt <hi>Adoram</hi>) to ſtone them to death as they paſſe the ſtreets; which ſome could not certainly eſcape, were it not for the fiery ſword, vengeance that ſurrounds them, which at the beſt is but the arm of fleſh, for their ſhelter and protection, and may fail ere they are aware: all ſorts of people watch but for their opportunity, and if it once come like a raging ſea on <hi>Pharaoh</hi> and his hoſt, they will ſwallow and devour them up alive: and ſure, this kind of conſtitution of Government thus by force in deſpite of the people obtruded and ſetled, thus grutched, curſed and hated, will never bring any peace, quiet or reſt un<g ref="char:EOLhyphen"/>to this Nation, it will be but as a continuall fire in their bones: therefore this con<g ref="char:EOLhyphen"/>queſt Conſtitution is not the way of Englands peace: There is but two wayes, by Conqueſt, or Agreement; by fire and ſword, or by compact and love; and both
+<pb n="12" facs="tcp:116267:7"/> theſe are contrary to each other as light is to darkneſs, and take their riſe from <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>trary ends; and the way of love muſt needs be of God, for God is love, and all <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ways are love; therefore we are bold of all other ways and Expedients whatſoever <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> commend only this way of love, of popular Agreement to the publick con<gap reason="illegible" resp="#PDCC" extent="8 letters">
+                  <desc>〈8 letters〉</desc>
+               </gap> for a well founded and ſafe ſetled peace: and upon this account, and no other, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any ſecurity or enjoyment be expected to any publick tranſactors in this Eng<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Theatry, whether Prince or others. We beleeve, he that now judgeth otherwiſe, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at the length, it may be, when it is too late, finde himſelf as much deceived, as he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> loſt his head againſt his own Palace gate.</p>
+            <p>Therefore conſidering there can be no ſure building without a firm founda<g ref="char:EOLhyphen"/>tion, and for prevention of further homebred diviſions and backſlidings <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> blood, we deſire our fellow Souldiers for their ſeverall Regiments of Horſe and Foot to chuſe their reſpective Agents to conſider of this way of Peace, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at length they may be inſtrumentall in ſaving (as now they are in deſtroying) th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Nation; but conſidering what unſetledneſs, and wavering from their principles, hath appeared among them, and how ſlender grounds we have of their return from Apoſtacy, we heartily deſire that all ſerious and well-affected people, that have any bowels of compaſſion in them to an <hi>afflicted, diſtreſſed nation,</hi> any ſence of <hi>piety, juſtice, mercy</hi> or <hi>goodneſs</hi> in them, any <hi>hatred</hi> to <hi>oppreſſion</hi> or <hi>remorſe of ſpirit,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the afflicted, or deſire of deliverance, or freedome from their worſe then <hi>Egyptian bondage,</hi> that they would lay the miſerable condition of the Nation to heart and unite themſelves in their endeavours for a <hi>new, equall,</hi> and ſpeedy <hi>Repreſentative<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and we humbly offer this motion as a juſt expedient to that end that they would <hi>chuſe two or three or more faithfull perſons from their ſeverall and reſpective Counties of the Land to come up to</hi> London <hi>to demand the freedom and releaſe of the Owners and Pub<g ref="char:EOLhyphen"/>liſhers of the foreſaid Agreement</hi> unjuſtly detained in Priſon by Wil and Force, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> debate and conſult with them <hi>&amp;c.</hi> of ſome way if poſſible to accompliſh the ſaid Agreement, before a deluge of Inteſtine inſurrections and Forraign Invaſions from <hi>Ireland, Scotland, Swethland, Denmarke, France,</hi> and <hi>Spain,</hi> ſweep us away from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Land of our Nativity; and for our parts we doe declare, that though we have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thus abuſed and defeated, we have ſtill the hearts of Engliſhmen in us, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> freely (if there be occaſion) ſpend the Remainder of our ſtrength and blood, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the redemption and purchaſe of an <hi>Agreement of the People,</hi> upon the foreſaid p<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ciples, the which for the ſatisfaction of ſuch as have not ſeen it, We have hereunto annexed the forementioned draught of the ſaid <hi>Agreement</hi> of our 4. impriſo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Friends in the Tower of <hi>London,</hi> as containing thoſe things our ſouls like and ap<g ref="char:EOLunhyphen"/>prove of as the moſt exacteſt that our eyes have ſeen, and commend the effect<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> promoting of it to the ſerious conſideration of all the true hearted friends of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> miſerable and diſtreſſed Nation, and reſt</p>
+            <p>The Nations true Friends and hearty Wel-wiſhers w<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> we have a drop of blood running in our Veines.</p>
+            <closer>
+               <dateline>
+                  <hi>Signed at London this</hi>
+                  <date>20 <hi>of Auguſt</hi> 1649,</date> 
+                  <hi>by us</hi>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Wood</hi>
+                     </item>
+                     <item>
+                        <hi>Humphry Marſton</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Everard</hi>
+                     </item>
+                     <item>
+                        <hi>William Hutchinſon</hi>
+                     </item>
+                     <item>
+                        <hi>Hugh H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rſt</hi>
+                     </item>
+                     <item>
+                        <hi>James Carpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                  </list> in the behalf of our ſelves, and by the appointment of the reſt of our foremention<g ref="char:EOLhyphen"/>ed Friends of the three forementioned Regiments.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
